@@ -7,7 +7,7 @@ end
 task.wait(5)
 
 local ACL_LoadTime = tick()
-local NotificationTitle = "Anthony's ACL"
+local NotificationTitle = "UserCreation."
 
 local OldCoreTypeSettings = {}
 local WhitelistedCoreTypes = {
