@@ -466,5 +466,5 @@ if CoreHook then
 end
 setreadonly(Metatable, true)
 
-Notify(NotificationTitle, "Anti Chat & Screenshot Logger Loaded!", 15)
-print(string.format("Anti Chat-Logger has loaded in %s seconds.", string.format("%.2f", tostring(tick() - ACL_LoadTime))))
+Notify(NotificationTitle, "Loaded successfully.", 15)
+print(string.format("Anti-ban loaded in %s seconds.", string.format("%.2f", tostring(tick() - ACL_LoadTime))))
