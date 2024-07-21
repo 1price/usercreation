@@ -303,8 +303,8 @@ local WarningGuiThread = task.spawn(function()
 end)
 
 if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
-    WarningUI.Enabled = true
-    Reason_1.Visible = true
+    WarningUI.Enabled = false
+    Reason_1.Visible = false
     return
 end
 
