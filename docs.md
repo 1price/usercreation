@@ -1,6 +1,17 @@
 # UserCreation Docs:
-- Script errors
-- Linkvertise errors
+
+
+> [!IMPORTANT]
+> Content:
+
+- **Script errors**
+  - [Global fix](https://github.com/1price/usercreation/blob/main/docs.md#global-fix)
+  - [Connection timed our error](https://github.com/1price/usercreation/blob/main/docs.md#connection-timed-our-error)
+  - [Invalid key - but your key is correct](https://github.com/1price/usercreation/blob/main/docs.md#invalid-key---but-your-key-is-correct)
+  - [Blank GUI](https://github.com/1price/usercreation/blob/main/docs.md#blank-gui)
+- **Linkvertise errors**
+  - [1 hour/45 minute wait time](https://github.com/1price/usercreation/blob/main/docs.md#1-hour45-minute-wait-time)
+  - [You have been blacklisted](https://github.com/1price/usercreation/blob/main/docs.md#you-have-been-blacklisted)
 
 # Script Errors
 The following list contains common errors and the responding fixes.
@@ -33,7 +44,7 @@ This error occurs when your key is not being registered. This can be caused by m
 
 ![image](https://github.com/user-attachments/assets/2c580bac-c1ad-4eeb-8a98-6bc1c7b4a77b)
 
-- Try out the [global fix](https://github.com/1price/usercreation/main/docs.md##global-fix) - this will probably be your best option.
+- Try out the [global fix](https://github.com/1price/usercreation/blob/main/docs.md#global-fix) - this will probably be your best option.
 - Try using a VPN - this can suprisingly work sometimes.
 
 ## Invalid key - but your key is correct:
@@ -50,7 +61,7 @@ This could be happening for multiple reasons:
 
 ![image](https://github.com/user-attachments/assets/184f457e-d9af-45a1-b897-385ce0583336)
 
-- Try out the [global fix](https://github.com/1price/usercreation/main/docs.md##global-fix) - this will probably be your best option.
+- Try out the [global fix](https://github.com/1price/usercreation/blob/main/docs.md#global-fix) - this will probably be your best option.
 - Re-execute the script.
 - Rejoin the game.
 
