@@ -52,6 +52,7 @@ This error occurs when your key is not being registered. This can be caused by m
 ![image](https://github.com/user-attachments/assets/c726a90e-f6c1-49d9-aa3e-2c243a4c5c6a)
 
 This could be happening for multiple reasons:
+- Executors such as **SynapseZ or any other executor that SPOOFS your HWID** are mainly responsible for this issue.
 - Your key has been used on another computer - making it invalid for you or anyone else who tries to use it.
 - Wait a couple minutes, the API may just need some time to update.
 - Your IP could be blacklisted or rate limited - try again in a couple minutes.
