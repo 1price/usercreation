@@ -1,4 +1,4 @@
--- Credits: AnthonyIsntHere/closet
+-- Credits: AnthonyIsntHere/closet.
 
 if not game:IsLoaded() then
     game.Loaded:wait()
