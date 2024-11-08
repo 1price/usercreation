@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Success",
-    Text = "Key is valid. Running secure action...",
+    Title = "UserCreation",
+    Text = "UserCreation is currently down. We apologize for the inconvenience",
     Duration = 5
 })
