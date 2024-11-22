@@ -57,7 +57,7 @@ if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
             if message:sub(1, 2) == "/e" then
                 return message
             else
-                return message .. "󠀕"
+                return message .. ""
             end
         end
 
@@ -80,8 +80,9 @@ if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
     end)
 
 else
-    if not pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/1price/usercreation/refs/heads/main/workspace/ACL.lua"))() end) then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/1price/usercreation/refs/heads/main/workspace/ACL.lua"))()
+    -- Credits: AnthonyIsntHere
+    if not pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/More-Scripts/main/Anthony's%20ACL"))() end) then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/More-Scripts/main/Anthony's%20ACL"))()
     end
 end
 
