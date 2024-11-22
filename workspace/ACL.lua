@@ -80,9 +80,8 @@ if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
     end)
 
 else
-    -- Credits: AnthonyIsntHere
-    if not pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/More-Scripts/main/Anthony's%20ACL"))() end) then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/More-Scripts/main/Anthony's%20ACL"))()
+    if not pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/1price/usercreation/refs/heads/main/workspace/ACL.lua"))() end) then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/1price/usercreation/refs/heads/main/workspace/ACL.lua"))()
     end
 end
 
