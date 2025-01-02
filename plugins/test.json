@@ -1,0 +1,14 @@
+{
+    "name": "Plugin Example",
+    "author": "@uqij",
+    "tabs": [
+        {
+            "Name": "Tab Name",
+            "Icon": "ban",
+            "Content": [
+                "Phrase #1",
+                "Phrase #2"
+            ]
+        }
+    ]
+}
