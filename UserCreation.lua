@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/af2ad7d3c791428ea9bf0d472dd55cf4.lua"))()
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "UserCreation has been REBRANDED",
+	Text = "Get the new script | discord.gg/usercreated",
+})
+print("join the new discord | discord.gg/usercreated")
